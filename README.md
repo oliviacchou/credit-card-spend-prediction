@@ -4,6 +4,8 @@
 
 A machine learning competition project predicting customers' **monthly credit card spend** from demographic, financial, and behavioral transaction data.
 
+https://www.kaggle.com/competitions/n463372 (see private leaderboard)
+
 ---
 
 ## Problem
